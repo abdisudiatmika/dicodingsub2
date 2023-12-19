@@ -1,0 +1,7 @@
+{
+"user": "postgres",
+"password": "Echa5758#",
+"host": "forum-api.c9iyrfqluiks.eu-north-1.rds.amazonaws.com",
+"port": 5432,
+"database": "authapi_test"
+}
